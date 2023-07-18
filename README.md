@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ky0raku
-- 👀 I’m interested in reverse engineering, C/C++
-- 🌱 I’m currently learning PHP, Javascript
+- 👀 I’m interested in reverse engineering, OSINT, Malware Development, Front-End
+- 🌱 I’m currently learning PHP, Javascript, HTML,CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
